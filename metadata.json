@@ -1,0 +1,6 @@
+{
+  "name": "Trips By Aksha",
+  "description": "A boutique AI travel planner that curates custom, localized, and bespoke itineraries for your next dream vacation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
